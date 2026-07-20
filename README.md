@@ -7,7 +7,7 @@ Agents record learnings as they work; future sessions prime them back into conte
 ## Install
 
 ```bash
-npm install -g github:mradamtweedie/marl
+npm install -g github:profesr-chaos/marl
 ```
 
 Or from a local clone: `npm link`.
