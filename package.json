@@ -1,0 +1,20 @@
+{
+  "name": "marl",
+  "version": "0.1.0",
+  "description": "Minimal project knowledge store for AI agents — record learnings, prime context, confirm what works",
+  "type": "module",
+  "bin": {
+    "marl": "./marl.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mradamtweedie/marl.git"
+  },
+  "license": "MIT"
+}
